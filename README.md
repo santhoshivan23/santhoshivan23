@@ -12,7 +12,7 @@
 
   
 
-- team lead <a  href = "https://www.bottlehq.com/"> @bottleco </a>
+- ex-team lead <a  href = "https://www.bottlehq.com/"> @bottleco </a>
 
   
 
